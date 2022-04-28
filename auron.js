@@ -1,0 +1,3 @@
+function kthendryshe() {
+  return "Hello";
+}
